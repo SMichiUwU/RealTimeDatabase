@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "650188381188",
+    "firebase_url": "https://realtimedatabase-93c74-default-rtdb.firebaseio.com",
+    "project_id": "realtimedatabase-93c74",
+    "storage_bucket": "realtimedatabase-93c74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650188381188:android:613948aea6b123d4c8a951",
+        "android_client_info": {
+          "package_name": "com.example.googlemaps1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgPlrKwRaVQagAEK-2qF7WWtdO7s4MpWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
